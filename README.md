@@ -1,0 +1,3 @@
+- Link github: https://github.com/nguyenngochuy00/landingpage_little-lemon
+- Link web: https://landingpage-littlelemon.netlify.app/
+- Technology used: HTML, CSS, JavaScript
